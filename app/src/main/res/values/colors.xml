@@ -1,0 +1,12 @@
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- App Specific Colors -->
+    <color name="red_highlight">#F56565</color>
+    <color name="white_text">#E2E8F0</color>
+    <color name="grey_text">#A0AEC0</color>
+
+    <!-- Add this new color for the button -->
+    <color name="button_yellow">#FBC02D</color>
+</resources>

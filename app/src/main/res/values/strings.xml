@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">IP Score</string>
+    <string name="header_title">Multi-API IP Checker</string>
+    <string name="api_key_hint">API Key</string>
+    <string name="save_key_button">Save Key</string>
+    <string name="refresh_scores_button">Refresh All Scores</string>
+    <string name="results_description">A scrollable list of IP score results from various APIs.</string>
+    <string name="about_app_button_description">About App</string>
+    <string name="about_title">About This App</string>
+    <string name="your_ip">Your IP: %1$s</string>
+    <string name="header_icon_description">App logo showing a shield with a checkmark</string>
+    <string name="manual_ip_hint">Or enter an IP to check</string>
+    <string name="checking_ip">Checking IP: %1$s</string>
+    <string name="manual_ip_helper">Press \'Refresh All Scores\' to check</string>
+    <string name="refresh_button_description">Refresh Scores</string>
+    <string name="share_button_description">Share Results</string>
+    <string name="history_button_description">View Search History</string>
+    <string name="history_title">Search History</string>
+
+    <!-- This string was missing -->
+    <string name="offline_status">Offline Mode - Data from: %1$s</string>
+
+    <string name="about_description_with_links">
+        <![CDATA[
+        <p>This application allows you to check the fraud score and other details of your public IP address using multiple API providers.</p>
+        <p>Enter and save your API key for each service you wish to use, then press the refresh button to see the results.</p>
+        <br/>
+        <b>Get API Keys:</b><br/>
+        &#8226; <a href="https://www.ipqualityscore.com/create-account">IPQualityScore</a><br/>
+        &#8226; <a href="https://www.abuseipdb.com/register">AbuseIPDB</a><br/>
+        &#8226; <a href="https://www.virustotal.com/gui/join">VirusTotal</a><br/>
+        &#8226; <a href="https://ipdata.co/signup.html">IPData</a><br/>
+        &#8226; <a href="https://fraudlogix.com/ip-blocklist-api/">Fraudlogix</a><br/>
+        &#8226; <a href="https://ipgeolocation.io/signup">IPGeolocation</a><br/>
+        &#8226; <a href="https://pulsedive.com/register">Pulsedive</a><br/>
+        &#8226; <a href="https://ipapi.is/">ipapi.is</a><br/>
+        <br/>
+        <p>For inquiries, please contact: seedboxtuga1@gmail.com</p>
+        <br/>
+        <p><i>developed by seedboxtuga</i></p>
+        ]]>
+    </string>
+</resources>
